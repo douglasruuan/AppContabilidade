@@ -1,0 +1,143 @@
+<resources>
+    <string name="app_name">Toebe Contabilidade</string>
+    <string name="lg_et_login">Login</string>
+    <string name="lg_et_Password">Password</string>
+    <string name="lg_bt_OK">OK</string>
+    <string name="hm_bt_cadastro">Cadastro</string>
+    <string name="hm_bt_ligacao">Ligação</string>
+    <string name="lig_et_ligar">Número</string>
+    <string name="lig_bt_ligar">Ligar</string>
+    <string name="ma_tv_iniciando" />
+    <string name="me_tv_iniciando">Iniciando...</string>
+    <string name="ca_bt_dona">Sócia-proprietária Ana Maria</string>
+    <string name="ca_et_dona_karina">Sócia-proprietária Karina</string>
+    <string name="ca_et_fp">Departamento Fiscal e Pessoal</string>
+    <string name="ca_et_dc">Departamento Contábil</string>
+
+
+    //Home
+    <string name="home1">Missão:</string>
+    <string name="home2">Prestação de serviços contábeis com qualidade, inovação e tecnologia,
+    comprometidos com a satisfação dos nossos clientes sempre obedecendo a legislação vigente.</string>
+    <string name="home3">Visão:</string>
+    <string name="home4">A Toebe Contabilidade deseja se destacar na área contábil, através de consultoria,
+     assessoria e fornecimento de informações relevantes ao cliente, trazendo qualidade na gestão,
+     valorizando a empresa e seus colaboradores.</string>
+    <string name="home5">Valores:</string>
+    <string name="home6">Excelência em atendimento na prestação de serviços, cumprimento dos compromissos
+        firmados com o cliente, foco no conhecimento e qualidade, ética e profissionalismo, valorizando sempre seus colaboradores.</string>
+
+
+
+
+
+    //Ligar
+    <string name="ligar1">Contate nossa equipe de atendimento através do e-mail</string>
+    <string name="ligar2">contabilidade@toebecontabilidade.com.br</string>
+    <string name="ligar3">Em breve, responderemos.</string>
+    <string name="ligar4">Horário de atendimento: </string>
+    <string name="ligar5">Manhã: das 8h30 às 12h;</string>
+    <string name="ligar6">Tarde: das 14h00 às 18h00.</string>
+    <string name="ligar7">Localização:</string>
+    <string name="ligar8">Avenida Victor Barreto, 3056 Sala 312</string>
+    <string name="ligar9">Bairro Centro – Canoas/RS</string>
+    //OPÇÕES
+
+    <string name="area_atuacao"><b>Área de Atuação</b></string>
+    <string name="formacao_academica"><b>Formação Acadêmica</b></string>
+    <string name="socia_proprietaria">Sócia-proprietária</string>
+
+    //AnaMaria
+
+    <string name="anamaria"><b>Ana Maria dos Santos e Silva</b></string>
+    <string name="anamaria3">Curso Técnico em Contabilidade.</string>
+    <string name="anamaria6">Coordenadora de Departamento Fiscal e Contábil e Pessoal</string>
+
+    //AnaKarina
+
+    <string name="anakarina"><b>Ana Karina dos Santos e Silva</b></string>
+    <string name="anakarina2">Curso Técnico em Contabilidade- Centro Educacional La Salle</string>
+    <string name="anakarina3">Curso Superior Ciências Contábeis  – Unisinos</string>
+    <string name="anakarina4">Coordenadora de departamento Contábil e Fiscal</string>
+    <string name="anakarina5"><b>Idiomas</b></string>
+    <string name="anakarina6">Inglês</string>
+
+    //Maria
+    <string name="maria">Mariângela Castro Coelho</string>
+    <string name="maria2">Departamento Fiscal e Pessoal</string>
+
+    //Rafael
+
+    <string name="rafa">Rafael Reule Meireles</string>
+    <string name="rafa2">Curso Superior Ciências Contábeis  – Centro Universitário Metodista IPA – Em formação</string>
+    <string name="rafa3">Departamento Contábil, Fiscal e Pessoal</string>
+    <string name="hm_bt_empresa">Empresa</string>
+
+    //Empresa
+
+    <string name="empresa1">São 48 anos atuando no mercado contábil. Conheça um pouco da nossa história:</string>
+    <string name="empresa2">Onde tudo Começou:</string>
+    <string name="empresa3">A Técnica em Contabilidade, Ana Maria dos Santos e Silva registrada sob número 016094/O-0,
+        fundadora da empresa Escritório Contábil Ana Maria e atuante na Toebe Contabilidade,
+        possui uma longa história na Classe Contábil gaúcha.</string>
+    <string name="empresa4">Foi uma das fundadoras do Sindicado dos Contabilistas de Canoas (SINDICAN), e presidente do mesmo.</string>
+    <string name="empresa5">Também foi conselheira no Conselho Regional de Contabilidade do Rio Grande do Sul (CRC/RS).</string>
+    <string name="empresa6">Quando presidente do SINDICAN, participou do Encontro de Integração dos Contabilistas do Estado do Rio Grande do Sul (EICON/RS),
+        evento com o propósito de gerar uma forte integração dos profissionais contábeis do Estado através de competições esportivas.</string>
+
+    //Buttons Serviços.
+
+    <string name="ss_bt_consultoria">Consultoria</string>
+    <string name="ss_bt_contabilidade">Contabilidade</string>
+    <string name="ss_bt_fiscal">Fiscal</string>
+    <string name="ss_bt_pessoal">Pessoal</string>
+    <string name="ss_bt_societario">Societário</string>
+    <string name="hm_bt_servicos">Serviços</string>
+
+    //Serviços
+    //Societário
+
+    <string name="societario1">• Abertura, Legalização, Regularização e Encerramento de sociedades.</string>
+    <string name="societario2">• Acompanhamento de certidões negativas.</string>
+    <string name="societario3">• Solicitação de parcelamento de débitos tributários.</string>
+
+    //Serviços
+    //Pessoal
+
+    <string name="pessoal1">• Elaboração de folha de pagamento e cálculo dos encargos sociais.</string>
+    <string name="pessoal2">• Registro dos profissionais contratados (admissão e atualizações).</string>
+    <string name="pessoal3">• Elaboração e produção de informações para envio ao Ministério de Trabalho.</string>
+    <string name="pessoal4">• Elaboração de obrigações acessórias anuais, tais como DIRF, RAIS e Informes de Rendimento.</string>
+    <string name="pessoal5">• Elaboração de mapas de acompanhamentos de concessão de férias.</string>
+    <string name="pessoal6">• Acompanhamento de Acordos, Convenções/Dissídios Coletivos</string>
+    <string name="pessoal7">• Assessoria no atendimento à Fiscalização.</string>
+
+    //Serviços
+    //Fiscal
+
+    <string name="fiscal1">• Escrituração Manual e Eletrônica de todos os documentos fiscais.</string>
+    <string name="fiscal2">• SPED Fiscal.</string>
+    <string name="fiscal3">• EFD Contribuições.</string>
+    <string name="fiscal4">• Demais obrigações acessórias, tais como GIA Mensal, GIA Anual e SINTEGRA.</string>
+    <string name="fiscal5">• Apuração e preparação das guias de recolhimento de tributos (IPI, PIS, COFINS, ICMS e ISS).</string>
+    <string name="fiscal6">•  Serviços de consultoria fiscal e assessoria na análise das operações e seus desmembramentos fiscais.</string>
+    <string name="fiscal7">• Atendimento à fiscalizações para regularizar e/ou evitar autos de infração.</string>
+    <string name="fiscal8">• Processos de Restituição e Compensação de Impostos.</string>
+
+    //Serviços
+    //Contabilidade
+
+    <string name="contabilidade1">• Escrituração Contábil.</string>
+    <string name="contabilidade2">• Elaboração de relatórios (Gerenciais e Fiscais).</string>
+    <string name="contabilidade3">• Declaração de Imposto de Renda Pessoa Física e Jurídica e todas as demais Declarações para a Receita Federal.</string>
+    <string name="contabilidade4">• SPED Contábil.</string>
+    <string name="contabilidade5">• Apuração e preparação das guias de recolhimento de tributos (IRPJ e CSLL).</string>
+
+    //Serviços
+    //Consultoria
+    <string name="consultoria1">• Temos consultores à disposição de segunda à sexta em horário comercial.</string>
+    <string name="consultoria2">• contate-nos via e-mail ou através do telefone. Lefisc Legislação fiscal é nossa empresa de consultoria</string>
+
+
+
+</resources>
